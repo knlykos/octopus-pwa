@@ -1,0 +1,22 @@
+{
+  "short_name": "Octopues",
+  "name": "Octopues Web App",
+  "icons": [
+    {
+      "src": "img/icons8-social-octopues-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/icons8-social-octopues-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/icons8-social-octopues-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html"
+}

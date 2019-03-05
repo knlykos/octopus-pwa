@@ -26,5 +26,6 @@
       "platform": "play",
       "id": "com.google.samples.apps.iosched"
     }
-  ]
+  ],
+  "theme_color": "#23d160"
 }

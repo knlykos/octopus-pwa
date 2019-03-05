@@ -18,5 +18,13 @@
       "sizes": "192x192"
     }
   ],
-  "start_url": "index.html"
+  "start_url": "index.html",
+  "background_color": "#23d160",
+  "display": "browser",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.google.samples.apps.iosched"
+    }
+  ]
 }

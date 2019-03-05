@@ -1,19 +1,19 @@
 {
-  "short_name": "Octopues",
-  "name": "Octopues Web App",
+  "short_name": "Octopus",
+  "name": "Octopus Web App",
   "icons": [
     {
-      "src": "img/icons8-social-octopues-48.png",
+      "src": "img/icons8-social-octopus-48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "img/icons8-social-octopues-96.png",
+      "src": "img/icons8-social-octopus-96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "img/icons8-social-octopues-192.png",
+      "src": "img/icons8-social-octopus-192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
